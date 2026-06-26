@@ -59,8 +59,5 @@ Use it only on files and projects you own or have explicit permission to audit.
 ---
 
 ## 👤 Author
-Khalid Aldakheel
-github.com/KhalidAldakheelSec
-
 **Khalid Aldakheel**
 github.com/KhalidAldakheelSec
